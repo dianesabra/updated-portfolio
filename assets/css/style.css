@@ -1,0 +1,24 @@
+body {
+  font-family: "Acme", sans-serif;
+}
+
+.nav-item {
+  padding-right: 25px;
+}
+.menuTitle {
+  margin-right: 35px;
+}
+
+.navbar {
+  background-color: lightskyblue !important;
+}
+
+.card-body {
+  font-size: 20px;
+}
+
+.section {
+  margin-top: 50px;
+  margin-left: 50px;
+  font-family: "Raleway", sans-serif;
+}
